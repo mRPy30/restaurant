@@ -1,6 +1,0 @@
- <ul class="selection_menu">
-            <li class="active" data-filter="*">All</li>
-            <li data-filter=".appetizer" class>Appetizer</li>
-            <li data-filter=".dishes" class>Dishes</li>
-            <li data-filter=".dessert" class>Dessert</li>
-        </ul>
